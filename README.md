@@ -33,7 +33,7 @@
 ## Быстрый старт
 
 ```bash
-git clone https://github.com/<ваш-юзернейм>/reading-tracker.git
+git clone https://github.com/Llaawliett/reAd-traCkeR.git
 cd reading-tracker
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
